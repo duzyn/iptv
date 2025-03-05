@@ -2,7 +2,8 @@ name: Download IPTV Guide
 
 on:
   schedule:
-    - cron: '0 3 * * *'  # 每天凌晨 3 点运行
+    - cron: '0 * * * *'  # 每小时运行一次
+  workflow_dispatch:
 
 jobs:
   download:
