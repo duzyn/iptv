@@ -394,13 +394,13 @@
         <title lang="zh">前情提要-青山是故乡-第3集</title>
     </programme>
     <programme start="20250401120600" stop="20250401125400" channel="cctv1">
-        <title lang="zh">青山是故乡-电视剧3/29</title>
+        <title lang="zh">青山是故乡第3集</title>
     </programme>
     <programme start="20250401125400" stop="20250401130000" channel="cctv1">
         <title lang="zh">前情提要-青山是故乡-第4集</title>
     </programme>
     <programme start="20250401130000" stop="20250401134800" channel="cctv1">
-        <title lang="zh">青山是故乡-电视剧4/29</title>
+        <title lang="zh">青山是故乡第4集</title>
     </programme>
     <programme start="20250401134800" stop="20250401140000" channel="cctv1">
         <title lang="zh">山水间的家-主题曲</title>
@@ -1347,10 +1347,7 @@
     <programme start="20250401113000" stop="20250401120000" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20250401120000" stop="20250401123000" channel="cctv4">
-        <title lang="zh">国家记忆-2025-2</title>
-    </programme>
-    <programme start="20250401123000" stop="20250401130000" channel="cctv4">
+    <programme start="20250401120000" stop="20250401130000" channel="cctv4">
         <title lang="zh">海峡两岸-2025-91</title>
     </programme>
     <programme start="20250401130000" stop="20250401133000" channel="cctv4">
@@ -2572,13 +2569,13 @@
         <title lang="zh">本集提要-我的后半生-第5集</title>
     </programme>
     <programme start="20250401113000" stop="20250401122400" channel="cctv8">
-        <title lang="zh">我的后半生-（高清版）-5/36</title>
+        <title lang="zh">我的后半生第5集</title>
     </programme>
     <programme start="20250401122400" stop="20250401122900" channel="cctv8">
-        <title lang="zh">本集提要-我的后半生-6/36</title>
+        <title lang="zh">本集提要-我的后半生-第6集</title>
     </programme>
     <programme start="20250401122900" stop="20250401132100" channel="cctv8">
-        <title lang="zh">我的后半生-（高清版）-6/36</title>
+        <title lang="zh">我的后半生第6集</title>
     </programme>
     <programme start="20250401132100" stop="20250401132400" channel="cctv8">
         <title lang="zh">本集提要-棋士-第9集</title>
@@ -2695,7 +2692,7 @@
         <title lang="zh">星推荐-2025年4月-2</title>
     </programme>
     <programme start="20250402112800" stop="20250402113000" channel="cctv8">
-        <title lang="zh">本集提要-我的后半生-7/36</title>
+        <title lang="zh">本集提要-我的后半生-第7集</title>
     </programme>
     <programme start="20250402113000" stop="20250402122400" channel="cctv8">
         <title lang="zh">我的后半生-（高清版）-7/36</title>
@@ -2922,11 +2919,11 @@
     <programme start="20250401110000" stop="20250401112200" channel="cctvjilu">
         <title lang="zh">9视频2025-91</title>
     </programme>
-    <programme start="20250401112200" stop="20250401120000" channel="cctvjilu">
+    <programme start="20250401112200" stop="20250401120300" channel="cctvjilu">
         <title lang="zh">活力·源2025-91</title>
     </programme>
-    <programme start="20250401120000" stop="20250401130000" channel="cctvjilu">
-        <title lang="zh">特别呈现2025-84</title>
+    <programme start="20250401120300" stop="20250401130000" channel="cctvjilu">
+        <title lang="zh">放歌新时代-2</title>
     </programme>
     <programme start="20250401130000" stop="20250401140000" channel="cctvjilu">
         <title lang="zh">寰宇视野2025-91</title>
@@ -2953,7 +2950,7 @@
         <title lang="zh">9视频2025-91</title>
     </programme>
     <programme start="20250401194600" stop="20250401204600" channel="cctvjilu">
-        <title lang="zh">特别呈现2025-84</title>
+        <title lang="zh">特别呈现2025-29</title>
     </programme>
     <programme start="20250401204600" stop="20250401214600" channel="cctvjilu">
         <title lang="zh">故事中国2025-92</title>
@@ -2974,7 +2971,7 @@
         <title lang="zh">活力·源2025-66</title>
     </programme>
     <programme start="20250402005900" stop="20250402020000" channel="cctvjilu">
-        <title lang="zh">特别呈现2025-84</title>
+        <title lang="zh">特别呈现2025-29</title>
     </programme>
     <programme start="20250402020000" stop="20250402025800" channel="cctvjilu">
         <title lang="zh">全景自然2025-86</title>
